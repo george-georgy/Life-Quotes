@@ -11,7 +11,7 @@ quotes.
 This repository hosts MVP in main branch and MVC in separated architecture . For more information, see the `README.md` file in each branch.
 
 |     Branch     | Description |
-| ------------- | ------------- | |
+| ------------- | ------------- | 
 | [main](https://github.com/george-georgy/Life-Quotes/) | implements Model View Presenter (MVP) with Retrofit and Viewbinding.  |
 | [mvc](https://github.com/george-georgy/Life-Quotes/tree/mvc) | implements Model View Controller (MVC) with Retrofit and Viewbinding. |
 
